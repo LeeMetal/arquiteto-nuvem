@@ -1,0 +1,11 @@
+  duplo click no switch para abrir a aba das configurações e preciona (Enter)
+  Execute o comando (enable) no console e precione (Enter)
+  Execute (conf t) para entrar nas configurações pelo terminal
+  Mudar o nome do Switch execute (hostname novonome)
+  Se quiser utilizar password execute (enable password suasenha)
+  Entrar nas configurações da VLAN 1 (int vlan1) e mude o IP da mesma
+    (ip address 192.168.0.100 255.255.255.0)
+  (exit) to get out from configuration mode
+
+  Para executar os testes nas maquinas utilizar o comando no terminal de cada maquina
+   Exemplo: ping 192.168.0.4
